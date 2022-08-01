@@ -1,0 +1,22 @@
+.pdf--wrapper {
+  background-color: #555b6e;
+  height: calc(100vh - 75px);
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.pdf--container {
+  height: 90vh;
+  width: 85vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+iframe {
+  border: none;
+}
